@@ -43,6 +43,14 @@ Give:
 
    Each pixel is projected into 3D space using the pinhole camera model:
 
+**$$
+\begin{aligned}
+x &= (u - c_x) \cdot \frac{d}{f_x} \\
+y &= (v - c_y) \cdot \frac{d}{f_y} \\ 
+z &= d
+\end{aligned}
+$$**
+
 Where:
 - u, v are pixel coordinates,
 - d is the depth value,
