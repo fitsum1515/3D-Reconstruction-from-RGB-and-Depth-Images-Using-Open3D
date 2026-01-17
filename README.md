@@ -63,7 +63,7 @@ Where:
   - SMart systems and Intelligent environments
   - Simulation and visualization
 
-  # 📸 Example Input
+  # 📸 Input
   - RGB Image : baby.jpeg
   - Depth Image : image.png (grayscale depth range)
   # 🛠️ Future Improvements
