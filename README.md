@@ -51,10 +51,13 @@ Where:
 ## 3.  Color Fusion
 
   RGB values from baby.jpeg are assigned to each 3D point, creating a colored point cloud.
+  ![Reconstruct](https://github.com/user-attachments/assets/32e064a7-7abb-498d-b820-b3a2f24f019b)
+
 
 ## 4. Mesh Generation
 
   Neighboring depth pixels are triangulated to form a surface mesh, followed by mesh cleanup to remove degenerate and non-manifold elements.
+![reconstruct3](https://github.com/user-attachments/assets/63529d1d-8f86-4534-b9e5-2b2e2cdea9bd)
 
   # 🎯 Applications
   - Robotics perception
